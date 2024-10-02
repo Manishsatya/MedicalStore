@@ -101,7 +101,7 @@
 <body>
     <center>
         <div class="nav-container">
-        	<a href="index.html"><button class="btn">Home</button></a>
+        	<a href="index.jsp"><button class="btn">Home</button></a>
             <a href='addmed.jsp'><button class="btn">Add Medicine</button></a>
             <a href='viewmed'><button class="btn">View All Medicines</button></a>
             <a href='searchmed.jsp'><button class="btn">Search Medicine</button></a>
