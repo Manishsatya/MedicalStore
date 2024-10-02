@@ -67,6 +67,7 @@
 </style>
 
 </head>
+
 <body>
     <div class="container">
         <h1>Welcome to Batch-1 Medical Store</h1>
